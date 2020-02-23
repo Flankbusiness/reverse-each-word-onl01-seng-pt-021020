@@ -10,9 +10,9 @@ def reverse_each_word()
   
   
  # def hamburger(toppings)
-  my_statements = []
-  toppings.each do |topping|
-    my_statements << "I love #{topping} on my burgers!"
-  end
-  my_statements
+#  my_statements = []
+#  toppings.each do |topping|
+ #   my_statements << "I love #{topping} on my burgers!"
+#  end
+ # my_statements
 end
