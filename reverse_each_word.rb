@@ -1,9 +1,9 @@
 require 'pry'
 
 def reverse_each_word(sentence1)
-  sentance1.collect do |sentance|
+  sentence1.collect do |sentence|
     binding.pry
-    puts sentance
+    puts sentence
   end
 end
   
