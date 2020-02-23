@@ -4,6 +4,7 @@ def reverse_each_word(sentence1)
   new_arr = []
   sentence.each do |sentence1|
   binding.pry
+ end
 end
 
 
