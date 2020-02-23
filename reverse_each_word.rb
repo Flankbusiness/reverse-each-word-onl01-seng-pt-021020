@@ -15,10 +15,9 @@ end
   #return of collect for further operation
   #reverse puts .reverse
   
- # def hamburger(toppings)
+# def hamburger(toppings)
 #  my_statements = []
 #  toppings.each do |topping|
- #   my_statements << "I love #{topping} on my burgers!"
+#   my_statements << "I love #{topping} on my burgers!"
 #  end
- # my_statements
-#
+# my_statements
