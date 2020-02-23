@@ -1,3 +1,5 @@
+require 'pry'
+
 def reverse_each_word()
   
   
@@ -5,9 +7,9 @@ def reverse_each_word()
   
   
   
-  
-  
-  
+  #.collect
+  #return of collect for further operation
+  #reverse puts .reverse
   
  # def hamburger(toppings)
 #  my_statements = []
