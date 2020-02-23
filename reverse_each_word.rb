@@ -6,6 +6,8 @@ def reverse_each_word(sentence1)
     puts sentence
   end
 end
+
+reverse_each_word
   
   
   
