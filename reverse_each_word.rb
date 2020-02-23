@@ -1,7 +1,7 @@
 require 'pry'
 
 def reverse_each_word(sentence1)
-  sentence1.collect ($.reverse)
+  sentence1.collect ($.capitalize)
   binding.pry
 end
 end
