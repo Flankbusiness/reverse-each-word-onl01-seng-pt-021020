@@ -3,6 +3,7 @@ require 'pry'
 def reverse_each_word(sentence1)
   sentance1.collect do |sentance|
     puts sentance
+    binding.pry
   end
 end
   
