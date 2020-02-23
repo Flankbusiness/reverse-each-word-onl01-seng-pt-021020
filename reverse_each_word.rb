@@ -1,12 +1,5 @@
 require 'pry'
 
-#def reverse_each_word(sentence1)
-  #new_arr = []
-  #sentence.each do |sentence1|
-  #binding.pry
- #end
-#end
-
 def reverse_each_word(string)
    string = string.split(" ")
     i = 0
