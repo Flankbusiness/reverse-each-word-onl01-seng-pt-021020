@@ -1,15 +1,13 @@
 require 'pry'
 
 def reverse_each_word(sentence1)
-  sentence1.each do |sentence|
-    
-
+  sentence1.each do {|sentence| sentence.reverse}
   end
-  reverse_each_word.reverse
+  reverse_each_word
   binding.pry
 end
 
-reverse_each_word
+
   
   
   
