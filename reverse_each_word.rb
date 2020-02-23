@@ -1,7 +1,7 @@
 require 'pry'
 
 def reverse_each_word(sentence1)
-  reverse_each_word.collect do |sentence|
+  sentence1.map do |sentence|
     binding.pry
     puts sentence
   end
